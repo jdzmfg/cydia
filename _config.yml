@@ -1,19 +1,15 @@
 # main text of home
-name: nostalgia
-bio: xnu superstar
+name: cydia
+bio: repo
 
-description: xnu superstar
+description: repo
 
 # if it's an external image, update below for true
 # better with square images
 external-image: true
 picture: assets/images/dragon.jpg
 
-resume: false
-resume-external: false
-resume-url: nostalg1a.github.io/resume.docx
-
-url: https://nostalg1a.github.io
+url: https://nostalg1a.github.io/cydia
 
 permalink: /:title/
 
@@ -29,41 +25,27 @@ disqus:
   shortname: mydisqus # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
-
-twitter: nostaIg1a
 github: nostalg1a
-email: nostalg1a@outlook.com
 cydia: nostalg1a.github.io/cydia
-nitotv: nostalg1a.github.io/nitotv
-# instagram: 
-# youtube: 
-# spotify: 
-# reddit: 
 
 authors:
     nostalg1a:
-        name: nostalg1a
-        bio: xnu superstar
+        name: cydia
+        bio: repo
         external-image: true
         picture: assets/images/dragon.jpg
-        twitter: nostaIg1a
     nostalg1a:
-        name: nostalg1a
-        bio: xnu superstar
+        name: cydia
+        bio: repo
         external-image: true
         picture: assets/images/dragon.jpg
-        twitter: nostaIg1a
 
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
 width: normal
 
-about: true
-cydia: true
-nitotv: true
-blog: true
-projects: true
 
+cydia: true
 
 read-time: true
 
