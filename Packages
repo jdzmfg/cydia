@@ -1,0 +1,165 @@
+Package: com.calcantara.silk
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: nostalg1a <nostalg1a@outlook.com>
+Depends: PreferenceLoader
+Filename: ./debs/com.calcantara.silk_1.0_iphoneos-arm.deb
+Size: 205790
+MD5sum: 5619dfd92439ecc5c7bc9363b9579da3
+SHA1: 7c18bd4b1d69aed981710e0d4b8af125312f7a9b
+SHA256: 914faf70847ed9136b5ba6804e520ff7d7dae606dc4fa8d7d0fdd6c687cf1af1
+Section: Themes (Complete)
+Homepage: https://app-1527265992.000webhostapp.com
+Description: This is my first theme, Thanks postpwn!
+Author: calcantara <calcantara@yahoo.com>
+Name: Silk
+
+Package: com.nostalg1a.i7walls
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: nostalg1a <nostalg1a@outlook.com>
+Conflicts: livewallpapers6plus, livewallpapers
+Filename: ./debs/com.nostalg1a.i7walls_1.2_iphoneos-arm.deb
+Size: 1923512
+MD5sum: 41713a4c623be79c5458d1ac1878cf60
+SHA1: c3e759bfd44d9242d0b26dc4f35e8d6439839116
+SHA256: f1aceb90d53334cdfd65607e0f7c17094f678b1e3a7b358467cba8929e070423
+Section: Wallpaper
+Description: Complete archive of "Live" wallpapers available only for the iPhone 6s/6s+ and above
+Tag: role::developer
+Author: nostalg1a <nostalg1a@outlook.com>
+Name: iPhone 7 wallpapers
+
+Package: com.nostalg1a.generator
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: nostalg1a <nostalg1a@gmail.com>
+Filename: ./debs/com.nostalg1a.generator_1.0_iphoneos-arm.deb
+Size: 1192
+MD5sum: a488a3ffef37680415357642e28a33d6
+SHA1: dc7bff211772fc6a3b7d694da2ca112d8c2d84d8
+SHA256: fb875f7d124ed94e55c6dc0f413a7368988af241fb05ffbe2c8af2d15f001bfc
+Section: Scripting
+Description: set generator to nvram. To start type gen in mobile terminal.
+Author: nostalg1a <nostalg1a@outlook.com>
+Name: generator
+
+Package: com.nostalg1a.iOS11walls
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: nostalg1a <nostalg1a@outlook.com>
+Filename: ./debs/com.nostalg1a.ios11walls_1.0-2_iphoneos-arm.deb
+Size: 20059464
+MD5sum: a28ec8c1b716d84a38431988cf659918
+SHA1: e0a4a867d269bd9fb8ba3164e4d2463ab41e2783
+SHA256: c499ce13d874462d04ae043a3739c2551468a91270362cb42026df5556850a26
+Section: Wallpaper
+Description: iOS 11 Wallpapers
+Author: MTAC <mtactheming@gmail.com>
+Name: iOS 11 wallpapers
+
+Package: com.nostalg1a.jbrespring
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: nostalg1a <nostalg1a@outlook.com>
+Filename: ./debs/com.nostalg1a.jbrespring_1.2_iphoneos-arm.deb
+Size: 74054
+MD5sum: ecabe6f4d6d7756809dcfb3fb7d29771
+SHA1: 578e71eedc001aeca1d9cffcdc908ec0ea2842b9
+SHA256: 4a6fb3bcba55efa8a1f03a83bbad041105b17deb586d424525befb698d86b4f7
+Section: Themes (Complete)
+Homepage: https://nostalg1a.github.io/
+Description: Replicates Phoenix jailbreak's running screen
+Author: nostalg1a <nostalg1a@outlook.com>
+Name: Phoenix-like Respring Theme
+
+Package: com.nostalg1a.mixtapeplayer
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: nostalg1a <nostalg1a@outlook.com>
+Filename: ./debs/com.nostalg1a.mixtapeplayer_1.2_iphoneos-arm.deb
+Size: 19737682
+MD5sum: 61beac1fa6cafee2c4312c63c92f8b00
+SHA1: 4b28683868c8cdc3180f33c7d59b97b8fc358b09
+SHA256: 2750ac251d55c79f99ec064e3367f6be3aec339f82508133e64c3d2dae5230d8
+Section: Multimedia
+Description: Supply & Demand Mixtape Player By Yolo Ryhmes.
+ 		Supported devices: iPhone5,2 iPhone8,4 iPhone10,3
+ 		Changelog:
+ 		v1.0
+ 		Initial Release
+ 		v1.1
+ 		Bug Fixes
+ 		v1.1.1
+ 		Changed category of mixtape player from
+ 		"Music" to "Multimedia" in cydia.
+ 		v1.1.2
+ 		Bug fixes
+ 		v1.1.3
+ 		iPhone8,4 Support Added
+ 		v1.1.4
+ 		iPhone5,2 Support Added
+ 		v1.2
+ 		iPhone10,3 Support Added
+Author: @REALKJCMEMBER <REALKJCMEMBER@yahoo.com>
+Name: Mixtape Player
+
+Package: com.nostalg1a.verboserespring
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: nostalg1a <nostalg1a@outlook.com>
+Filename: ./debs/com.nostalg1a.verboserespring_1.2_iphoneos-arm.deb
+Size: 12583550
+MD5sum: 55199def5bfb5da86fd503478953e980
+SHA1: 01f769d9949a2f72f215a0edb8f57c746399c17a
+SHA256: 97fa062cbdbded2143b63c00d408863cf68840e88115f7d95d313100c32ac39e
+Section: Themes (Complete)
+Homepage: https://cryogenlx.github.io/
+Description: verbose respring theme
+Author: nostalg1a <nostalg1a@outlook.com>
+Name: Verbose Respring Theme
+
+Package: com.iApeiron.Savethemblobs
+Version: 1.0b1
+Architecture: iphoneos-arm
+Maintainer: 2Klasic <derobi@icloud.com>
+Filename: ./debs/com.iapeiron.savethemblobs_1.0b1_iphoneos-arm.deb
+Size: 24625124
+MD5sum: 54db6ffdb6e8d86d43fb5f59abafffa5
+SHA1: c877d9cc258e06c638c67592d915f227203d350c
+SHA256: 67c52ee6a14545fc10feb15398f91000d8645b570f508abc2826a3293fdd5938
+Section: Utilities
+Description: Easily save/manage SHSH blobs from Apple and Cydia, This is currently a working beta.
+Author: iAperion <aperion@hotmail.ca>
+Name: Savethemblobs
+
+Package: com.mtac.phoenixfix
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: MTAC <mtactheming@gmail.com>
+Filename: ./debs/com.mtac.phoenixfix_0.1_iphoneos-arm.deb
+Size: 724
+MD5sum: 5d5804fd1b8852284e0cf13b801fb4fd
+SHA1: cf239007012c04c835f1b6c24833c4e74f4a3b75
+SHA256: cfcffb0bf1ebdb24276116cfe44449b1d62244b9d0c8b38ef787ef014b3d7a5a
+Section: System
+Description: Fix sed on Phoenix iOS 9.3.5 jailbreak
+Author: MTAC <mtactheming@gmail.com>
+Depiction: https://mtacs.github.io/description.html?id=com.mtac.phoenixfix
+Name: Phoenix Fix
+
+Package: com.mtac.terminalpower
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: MTAC <mtactheming@gmail.com>
+Filename: ./debs/com.mtac.terminalpower_1.0_iphoneos-arm.deb
+Size: 754
+MD5sum: 6414beacea607102f9fb7bb86231d06a
+SHA1: ef89da76f119eb04800d3f7d9467f44324e87c65
+SHA256: de8ed858b9fb5c8e598fddda797cb6b8d63b8cb99d516cf9688ec6c0e83f9bfa
+Section: Terminal Support
+Description: Safemode & Respring via one terminal command
+Author: MTAC <mtactheming@gmail.com>
+Depiction: https://mtacs.github.io/description.html?id=com.mtac.terminalpower
+Name: Terminal Power
+
