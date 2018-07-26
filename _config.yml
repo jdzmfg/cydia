@@ -1,5 +1,5 @@
 name: cydia
-bio: repo
+bio: cydia
 
 description: repo
 
@@ -11,23 +11,21 @@ url: https://nostalg1a.github.io
 permalink: /:title/
 
 email: nostalg1a@outlook.com
-github: nostalg1a
-cydia: nostalg1a.github.io/cydia
 
 authors:
-    cydia:
+    nostalg1a:
         name: cydia
-        bio: repo
+        bio: cydia
         external-image: true
         picture: assets/images/dragon.jpg
-    cydia:
+        twitter: nostalg1a
+    nostalg1a:
         name: cydia
-        bio: repo
+        bio: cydia
         external-image: true
         picture: assets/images/dragon.jpg
+        twitter: nostalg1a
 
-# options: [normal, large] | default: normal
-# normal = 560px / large = 810px
 width: normal
 
 github: true
@@ -39,11 +37,9 @@ read-time: true
 
 show-tags: true
 
-# related posts inside a post?
 related: true
 
-# Display links for next and previous posts for the specified categories
-post-advance-links: [home]
+post-advance-links: [blog]
 
 show-author: true
 
