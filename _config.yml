@@ -10,10 +10,6 @@ url: https://nostalg1a.github.io
 permalink: /:title/
 
 
-github: nostalg1a/cydia
-email: nostalg1a@outlook.com
-
-
 authors:
     repo:
         name: cydia repository
@@ -29,20 +25,20 @@ authors:
 width: normal
 
 
-email: nostalg1a/cydia
-github: nostalg1a@outlook.com
+
+email: nostalg1a@outlook.com
+github: nostalg1a/cydia
+
+
 
 read-time: true
-
 show-tags: true
-
 related: true
-
 post-advance-links: [blog]
-
 show-author: true
-
 animation: true
+
+
 
 plugins:
   - jekyll-seo-tag
