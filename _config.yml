@@ -1,4 +1,4 @@
-name: cydia
+name: repo
 bio: a public cydia repo created by @nostalg1a
 
 description: a public cydia repo created by @nostalg1a
@@ -12,13 +12,13 @@ permalink: /:title/
 email: nostalg1a@outlook.com
 
 authors:
-    cydia:
-        name: cydia
+    repo:
+        name: repo
         bio: a public cydia repo created by @nostalg1a
         external-image: true
         picture: assets/images/dragon.jpg
-    cydia:
-        name: cydia
+    repo:
+        name: repo
         bio: a public cydia repo created by @nostalg1a
         external-image: true
         picture: assets/images/dragon.jpg
