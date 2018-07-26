@@ -1,8 +1,7 @@
 name: nostalg1a.github.io/cydia
-bio: public cydia repo
+bio: a public cydia repo created by @nostalg1a
 
-description: public cydia repo
-
+description: a public cydia repo created by @nostalg1a
 external-image: true
 picture: assets/images/dragon.jpg
 
@@ -15,12 +14,12 @@ email: nostalg1a@outlook.com
 authors:
     cydia:
         name: cydia
-        bio: public cydia repo
+        bio: a public cydia repo created by @nostalg1a
         external-image: true
         picture: assets/images/dragon.jpg
     cydia:
         name: cydia
-        bio: public cydia repo
+        bio: a public cydia repo created by @nostalg1a
         external-image: true
         picture: assets/images/dragon.jpg
 
@@ -28,11 +27,9 @@ width: normal
 
 
 
-
-github: true
 cydia: true
+github: true
 packages: true
-
 
 
 
