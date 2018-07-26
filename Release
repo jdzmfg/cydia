@@ -1,7 +1,7 @@
-Origin: nostalg1a
-Label: nostalg1a
+Origin: nostalgia
+Label: nostalgia
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: nostalg1a's cydia repo
+Description: nostalgia's cydia repository
