@@ -1,11 +1,11 @@
-A cydia repository created by [@nostalg1a](https://twitter.com/nostalg1a)
+A cydia repository created by [@nostalg1a](https://twitter.com/nostaIg1a)
 
 ### [nostalg1a's cydia repo](https://nostalg1a.github.io/cydia/)
-![demo_img]()
+
 
 ## Issues
 
-Please use the "Issues" tab for **code related** issues only! If you need support please contact me on [twitter](https://twitter.com/nostalg1a)
+Please use the "Issues" tab for **code related** issues only! If you need support please contact me on [twitter](https://twitter.com/nostaIg1a)
 
 ## Contributing
 
