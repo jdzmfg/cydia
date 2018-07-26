@@ -1,2 +1,0 @@
-# cydia
-cydia repo
