@@ -44,8 +44,10 @@ authors:
 # normal = 560px / large = 810px
 width: normal
 
-
+github: true
 cydia: true
+packages: true
+projects: true
 
 read-time: true
 
