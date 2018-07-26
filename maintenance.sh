@@ -10,7 +10,6 @@ rm -r Packages.bz2
 echo [+] Building Debs..
 dpkg-deb -bZgzip projects/i7walls debs
 dpkg-deb -bZgzip projects/SetGen debs
-dpkg-deb -bZgzip projects/Savethemblobs debs
 dpkg-deb -bZgzip projects/Jailbreak\ Respring debs
 dpkg-deb -bZgzip projects/phoenixfix debs
 dpkg-deb -bZgzip projects/Terminal\ Power debs
