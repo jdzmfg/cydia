@@ -1,7 +1,7 @@
-name: nostalg1a
-bio: cydia
+name: nostalg1a.github.io/cydia
+bio: public cydia repo
 
-description: repo
+description: public cydia repo
 
 external-image: true
 picture: assets/images/dragon.jpg
@@ -13,25 +13,30 @@ permalink: /:title/
 email: nostalg1a@outlook.com
 
 authors:
-    nostalg1a:
-        name: nostalg1a
-        bio: cydia
+    nostalg1a.github.io/cydia:
+        name: nostalg1a.github.io/cydia
+        bio: public cydia repo
         external-image: true
         picture: assets/images/dragon.jpg
         twitter: nostalg1a
-    nostalg1a:
-        name: nostalg1a
-        bio: cydia
+    nostalg1a.github.io/cydia:
+        name: nostalg1a.github.io/cydia
+        bio: public cydia repo
         external-image: true
         picture: assets/images/dragon.jpg
         twitter: nostalg1a
 
 width: normal
 
+
+
+
 github: true
 cydia: true
 packages: true
-projects: true
+
+
+
 
 read-time: true
 
