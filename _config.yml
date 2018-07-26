@@ -1,7 +1,7 @@
 name: cydia repository
-bio: a public cydia repo created by @nostalg1a
+bio: a cydia repository created by @nostalg1a
 
-description: a public cydia repo created by @nostalg1a
+description: a cydia repository created by @nostalg1a
 external-image: true
 picture: assets/images/cydia.jpg
 
@@ -13,12 +13,12 @@ permalink: /:title/
 authors:
     repo:
         name: cydia repository
-        bio: a public cydia repo created by @nostalg1a
+        bio: a cydia repository created by @nostalg1a
         external-image: true
         picture: assets/images/cydia.jpg
     repo:
         name: cydia repository
-        bio: a public cydia repo created by @nostalg1a
+        bio: a cydia repository created by @nostalg1a
         external-image: true
         picture: assets/images/cydia.jpg
 
