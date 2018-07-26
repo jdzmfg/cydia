@@ -1,4 +1,4 @@
-name: cydia
+name: nostalg1a
 bio: cydia
 
 description: repo
@@ -14,13 +14,13 @@ email: nostalg1a@outlook.com
 
 authors:
     nostalg1a:
-        name: cydia
+        name: nostalg1a
         bio: cydia
         external-image: true
         picture: assets/images/dragon.jpg
         twitter: nostalg1a
     nostalg1a:
-        name: cydia
+        name: nostalg1a
         bio: cydia
         external-image: true
         picture: assets/images/dragon.jpg
