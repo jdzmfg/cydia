@@ -1,0 +1,25 @@
+Package: com.nostalg1a.mixtapeplayer
+Name: Mixtape Player
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: nostalg1a <nostalg1a@outlook.com>
+Author: REALKJCMEMBER <REALKJCMEMBER@yahoo.com>
+Section: Multimedia
+Description: Supply & Demand Mixtape Player By Yolo Rhymes.
+			Supported devices: iPhone5,2 iPhone8,4 iPhone10,3
+			Changelog:
+			v1.0
+			Initial Release
+			v1.1
+			Bug Fixes
+			v1.1.1
+			Changed category of mixtape player from 
+			"Music" to "Multimedia" in cydia.
+			v1.1.2
+			Bug fixes
+			v1.1.3
+			iPhone8,4 Support Added
+			v1.1.4
+			iPhone5,2 Support Added
+			v1.2
+			iPhone10,3 Support Added
