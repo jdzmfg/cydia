@@ -1,0 +1,10 @@
+Package: com.calcantara.silk
+Name: Silk
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: PreferenceLoader
+Description: This is my first theme, Thanks postpwn!
+Homepage: https://app-1527265992.000webhostapp.com
+Maintainer: postpwn <postpwn@outlook.com>
+Author: calcantara <calcantara@yahoo.com>
+Section: Themes (Complete)
