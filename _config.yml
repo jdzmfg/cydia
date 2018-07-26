@@ -15,12 +15,12 @@ authors:
         name: cydia repository
         bio: a public cydia repo created by @nostalg1a
         external-image: true
-        picture: assets/images/dragon.jpg
+        picture: assets/images/cydia.jpg
     repo:
         name: cydia repository
         bio: a public cydia repo created by @nostalg1a
         external-image: true
-        picture: assets/images/dragon.jpg
+        picture: assets/images/cydia.jpg
 
 width: normal
 
