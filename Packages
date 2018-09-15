@@ -1,7 +1,21 @@
+Package: com.nostalg1a.iOS12walls
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: nostalg1a <n_stalg1a@outlook.com>
+Filename: ./debs/com.n-stalgia.ios12walls_1.0-2_iphoneos-arm.deb
+Size: 
+MD5sum: 
+SHA1: 
+SHA256: 
+Section: Wallpaper
+Description: iOS 12 Wallpapers
+Author: nostalg1a <n_stalg1a@outlook.com>
+Name: iOS 12 wallpapers
+
 Package: com.calcantara.silk
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: postpwn <postpwn@outlook.com>
+Maintainer: postpwn <n_stalg1a@outlook.com>
 Depends: PreferenceLoader
 Filename: ./debs/com.calcantara.silk_1.0_iphoneos-arm.deb
 Size: 205790
@@ -33,7 +47,7 @@ Package: com.nostalg1a.generator
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: nostalg1a <ultrasonicbeam@outlook.com>
-Filename: ./debs/com.nostalg1a.generator_1.0_iphoneos-arm.deb
+Filename: ./debs/com.n-stalgia.generator_1.0_iphoneos-arm.deb
 Size: 1162
 MD5sum: 25294188d7c341acc2d6b648b811f4c7
 SHA1: a3f47fbb73bf05801cb206bb1975299227991fe2
@@ -46,9 +60,9 @@ Name: generator
 Package: com.nostalg1a.i7walls
 Version: 1.2
 Architecture: iphoneos-arm
-Maintainer: nostalg1a <nostalg1a@outlook.com>
+Maintainer: nostalg1a <n_stalg1a@outlook.com>
 Conflicts: livewallpapers6plus, livewallpapers
-Filename: ./debs/com.nostalg1a.i7walls_1.2_iphoneos-arm.deb
+Filename: ./debs/com.n-stalgia.i7walls_1.2_iphoneos-arm.deb
 Size: 1923508
 MD5sum: 0dcf2393e36af9063b293fdaf1cb7c28
 SHA1: 1679825d0c5138ed4bb91113e65d117e4d4dbd85
@@ -56,43 +70,43 @@ SHA256: bc8664fae7979a12b5015e8064bd1e4d8341e6ccc9dc93b3d6f4e643ff3f49ac
 Section: Wallpaper
 Description: Complete archive of "Live" wallpapers available only for the iPhone 6s/6s+ and above
 Tag: role::developer
-Author: nostalg1a <nostalg1a@outlook.com>
+Author: nostalg1a <n_stalg1a@outlook.com>
 Name: iPhone 7 wallpapers
 
 Package: com.nostalg1a.iOS11walls
 Version: 1.0-2
 Architecture: iphoneos-arm
-Maintainer: nostalg1a <nostalg1a@outlook.com>
-Filename: ./debs/com.nostalg1a.ios11walls_1.0-2_iphoneos-arm.deb
+Maintainer: nostalg1a <n_stalg1a@outlook.com>
+Filename: ./debs/com.n-stalgia.ios11walls_1.0-2_iphoneos-arm.deb
 Size: 20059486
 MD5sum: 429a23c398017c8184da9b7a1c6b8102
 SHA1: fe90d90c7c87a8ea16465c0d1afa8762863a128b
 SHA256: 8593a5ae0f50d2d8b32aaa36abd5fa5041aaa9b17ec209c3894905b18463296e
 Section: Wallpaper
 Description: iOS 11 Wallpapers
-Author: nostalg1a <nostalg1a@gmail.com>
+Author: nostalg1a <n_stalg1a@outlook.com>
 Name: iOS 11 wallpapers
 
 Package: com.nostalg1a.jbrespring
 Version: 1.2
 Architecture: iphoneos-arm
-Maintainer: nostalg1a <nostalg1a@outlook.com>
-Filename: ./debs/com.nostalg1a.jbrespring_1.2_iphoneos-arm.deb
+Maintainer: nostalg1a <n_stalg1a@outlook.com>
+Filename: ./debs/com.n-stalgia.jbrespring_1.2_iphoneos-arm.deb
 Size: 74060
 MD5sum: ed3f21249943311d2335bca7658cbddc
 SHA1: 5eb11f0507cdb212ac60f557a9649491051bf124
 SHA256: 7fc23b220af8782a44c4933888fa49ff67dcc47c99b4b2a977b3c78ac9ab8911
 Section: Themes (Complete)
-Homepage: https://nostalg1a.github.io/cydia
+Homepage: https://n-stalgia.github.io/cydia
 Description: Replicates Phoenix jailbreak's running screen
-Author: nostalg1a <nostalg1a@outlook.com>
+Author: nostalg1a <n_stalg1a@outlook.com>
 Name: Phoenix-like Respring Theme
 
 Package: com.nostalg1a.mixtapeplayer
 Version: 1.2
 Architecture: iphoneos-arm
-Maintainer: nostalg1a <nostalg1a@outlook.com>
-Filename: ./debs/com.nostalg1a.mixtapeplayer_1.2_iphoneos-arm.deb
+Maintainer: nostalg1a <n_stalg1a@outlook.com>
+Filename: ./debs/com.n-stalgia.mixtapeplayer_1.2_iphoneos-arm.deb
 Size: 19737690
 MD5sum: f4dd55a5c38f17b256a9a644edb66bf4
 SHA1: a3c3b872416722c86f280e22cf10e7b143534657
@@ -122,45 +136,44 @@ Name: Mixtape Player
 Package: com.nostalg1a.phoenixfix
 Version: 0.1
 Architecture: iphoneos-arm
-Maintainer: nostalg1a <nostalg1a@outllook.com>
-Filename: ./debs/com.nostalg1a.phoenixfix_0.1_iphoneos-arm.deb
+Maintainer: nostalg1a <n_stalg1a@outlook.com>
+Filename: ./debs/com.n-stalgia.phoenixfix_0.1_iphoneos-arm.deb
 Size: 728
 MD5sum: 5a37c8b946286534ca3b8c667108dca8
 SHA1: 3f2c641b01e819634fa3e45bebc9b3819f2f19a3
 SHA256: 921e27d6c443c7d7652b442efb31a4f4353dbe604d6951a0e45c56d8baca4b84
 Section: System
 Description: Fix sed on Phoenix iOS 9.3.5 jailbreak
-Author: nostalg1a <nostalg1a@outllook.com>
-Depiction: https://nostalg1a.github.io/description.html?id=com.nostalg1a.phoenixfix
+Author: nostalg1a <n_stalg1a@outlook.com>
+Depiction: https://n-stalgia.github.io/description.html?id=com.nostalg1a.phoenixfix
 Name: Phoenix Fix
 
 Package: com.nostalg1a.redsn0wrespring
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: nostalg1a <nostalg1a@outlook.com>
-Filename: ./debs/com.nostalg1a.redsn0wrespring_1.0_iphoneos-arm.deb
+Maintainer: nostalg1a <n_stalg1a@outlook.com>
+Filename: ./debs/com.n-stalgia.redsn0wrespring_1.0_iphoneos-arm.deb
 Size: 3966
 MD5sum: 318f1476a607cdc9594e27add30f6173
 SHA1: b627a5778c0298029009c682123c24b03f6ff18e
 SHA256: 338560ccc001f6318ae1a822b0dfb285994d367a3dffc2765505d1be6720558c
 Section: Themes (Complete)
-Homepage: https://nostalg1a.github.io/cydia
+Homepage: https://n-stalgia.github.io/cydia
 Description: Replicates RedSn0w's jailbreak running screen
-Author: nostalg1a <nostalg1a@outlook.com>
+Author: nostalg1a <n_stalg1a@outlook.com>
 Name: RedSn0w Respring Theme
 
 Package: com.nostalg1a.verboserespring
 Version: 1.2
 Architecture: iphoneos-arm
-Maintainer: nostalg1a <@outlook.com>
-Filename: ./debs/com.nostalg1a.verboserespring_1.2_iphoneos-arm.deb
+Maintainer: nostalg1a <n_stalg1a@outlook.com>
+Filename: ./debs/com.n-stalgia.verboserespring_1.2_iphoneos-arm.deb
 Size: 12583622
 MD5sum: 608628b28b005825e9b14b7a72270853
 SHA1: 5a5242f6ca94e26ff5edf8a497ff3e58cb077f4f
 SHA256: dcdce8827614d0e5777a4876890c96a94622acbfc0af613a505f3d5a21510886
 Section: Themes (Complete)
-Homepage: https://nostalg1a.github.io/cydia
+Homepage: https://n-stalgia.github.io/cydia
 Description: verbose respring theme
-Author: nostalg1a <nostalg1a@outlook.com>
+Author: nostalg1a <n_stalg1a@outlook.com>
 Name: Verbose Respring Theme
-
