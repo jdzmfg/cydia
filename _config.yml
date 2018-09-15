@@ -1,11 +1,11 @@
 name: cydia repository
-bio: a cydia repository created by @nostalg1a
+bio: a cydia repository created by nostalgia
 
-description: a cydia repository created by @nostalg1a
+description: a cydia repository created by nostalgia
 external-image: true
 picture: assets/images/cydia.jpg
 
-url: https://nostalg1a.github.io
+url: https://n-stalgia.github.io/cydia/
 
 permalink: /:title/
 
@@ -13,12 +13,12 @@ permalink: /:title/
 authors:
     repo:
         name: cydia repository
-        bio: a cydia repository created by @nostalg1a
+        bio: a cydia repository created by nostalgia
         external-image: true
         picture: assets/images/cydia.jpg
     repo:
         name: cydia repository
-        bio: a cydia repository created by @nostalg1a
+        bio: a cydia repository created by nostalgia
         external-image: true
         picture: assets/images/cydia.jpg
 
@@ -26,8 +26,8 @@ width: normal
 
 
 
-email: nostalg1a@outlook.com
-github: nostalg1a/cydia
+email: n_stalgia@outlook.com
+github: n-stalgia/cydia
 
 
 
