@@ -1,0 +1,26 @@
+<package>
+	<id>com.nostalg1a.i7walls</id>
+	<name>i7walls</name>
+	<version>1.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9</miniOS>
+      <maxiOS>10</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>This adds icons to the Sections.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+		<change>bug fixes</change>
+		<change>renamed package</change>
+	</changelog>
+	<links></links>
+</package>

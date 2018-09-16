@@ -1,8 +1,8 @@
-Package: com.nostalg1a.generator
+Package: com.nostalgia.generator
 Name: generator
 Version: 1.0
 Architecture: iphoneos-arm
 Description: set generator to nvram. To start type gen in mobile terminal.
-Maintainer: nostalg1a <ultrasonicbeam@outlook.com>
-Author: nostalg1a <nostalg1a@outlook.com>
+Maintainer: nostalgia <n_stalgia@outlook.com>
+Author: nostalgia <n_stalgia@outlook.com>
 Section: Scripting

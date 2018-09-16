@@ -16,6 +16,7 @@ dpkg-deb -bZgzip projects/Terminal\ Power debs
 dpkg-deb -bZgzip projects/Verbose\ Respring debs
 dpkg-deb -bZgzip projects/MIXTAPE_PLAYER debs
 dpkg-deb -bZgzip projects/iOS11walls debs
+dpkg-deb -bZgzip projects/iOS12walls debs
 dpkg-deb -bZgzip projects/Silk debs
 dpkg-deb -bZgzip projects/RedSn0w\ Respring debs
 

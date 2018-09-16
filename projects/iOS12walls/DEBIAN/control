@@ -1,1 +1,8 @@
-.gitignore
+Package: com.nostalgia.iOS12walls
+Name: iOS 12 wallpapers
+Version: 1.0
+Architecture: iphoneos-arm
+Description: iOS 12 Wallpapers
+Maintainer: nostalgia <n_stalgia@outlook.com>
+Author: nostalgia <n_stalgia@outlook.com>
+Section: Wallpapers from iOS 12

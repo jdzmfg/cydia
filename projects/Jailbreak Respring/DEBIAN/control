@@ -1,9 +1,9 @@
-Package: com.nostalg1a.jbrespring
+Package: com.nostalgia.jbrespring
 Name: Phoenix-like Respring Theme
 Version: 1.2
 Architecture: iphoneos-arm
 Description: Replicates Phoenix jailbreak's running screen
-Homepage: https://nostalg1a.github.io/cydia
-Maintainer: nostalg1a <nostalg1a@outlook.com>
-Author: nostalg1a <nostalg1a@outlook.com>
+Homepage: https://n-stalgia.github.io/cydia
+Maintainer: nostalgia <n_stalgia@outlook.com>
+Author: nostalgia <n_stalgia@outlook.com>
 Section: Themes (Complete)

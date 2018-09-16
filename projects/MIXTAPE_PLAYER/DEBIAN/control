@@ -1,8 +1,8 @@
-Package: com.nostalg1a.mixtapeplayer
+Package: com.nostalgia.mixtapeplayer
 Name: Mixtape Player
 Version: 1.2
 Architecture: iphoneos-arm
-Maintainer: nostalg1a <nostalg1a@outlook.com>
+Maintainer: nostalgia <n_stalgia@outlook.com>
 Author: REALKJCMEMBER <REALKJCMEMBER@yahoo.com>
 Section: Multimedia
 Description: Supply & Demand Mixtape Player By Yolo Rhymes.

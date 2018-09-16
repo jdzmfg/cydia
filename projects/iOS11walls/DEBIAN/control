@@ -1,8 +1,8 @@
-Package: com.nostalg1a.iOS11walls
+Package: com.nostalgia.iOS11walls
 Name: iOS 11 wallpapers
 Version: 1.0-2
 Architecture: iphoneos-arm
 Description: iOS 11 Wallpapers
-Maintainer: nostalg1a <nostalg1a@outlook.com>
-Author: nostalg1a <nostalg1a@gmail.com>
+Maintainer: nostalgia <n_stalgia@outlook.com>
+Author: nostalgia <n_stalgia@gmail.com>
 Section: Wallpaper
