@@ -1,0 +1,11 @@
+---
+layout: default
+title: repository
+---
+
+<section class="lost-container">
+  <h1>repository</h1>
+  <div class=""> 
+    <img class="selfie" alt="{{ site.name }}" src="{{ site.url }}/assets/images/cydia.jpg" />	
+  </div>
+<a class="1" href="cydia://url/https://cydia.saurik.com/api/share#?source=http://n-stalgia.github.io">Add to Cydia</a>
