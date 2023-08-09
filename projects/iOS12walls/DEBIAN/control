@@ -1,8 +1,8 @@
-Package: com.nostalgia.iOS12walls
+Package: com.jmd0x.iOS12walls
 Name: iOS 12 wallpapers
 Version: 1.0
 Architecture: iphoneos-arm
 Description: iOS 12 Wallpapers
-Maintainer: nostalgia <n_stalgia@outlook.com>
-Author: nostalgia <n_stalgia@outlook.com>
+Maintainer: jmd0x <jmd0x@github.io>
+Author: jmd0x <jmd0x>
 Section: Wallpapers from iOS 12
