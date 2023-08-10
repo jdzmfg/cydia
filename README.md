@@ -1,4 +1,4 @@
-A cydia repository created by [@nostalgia](https://twitter.com/jmd0x)
+A cydia repository created by [@jmdx0](https://twitter.com/jmd0x)
 
 ### [jmd0x's cydia repo](https://jmd0x.github.io/cydia/)
 
