@@ -2,14 +2,14 @@
     <ul class="list">
         {% if page.title != "cydia" %}
             <li class="item">
-                <a class="link" href="{{ site.url }}/">cydia</a>
+                <a class="link" href="{{ site.url }}/cydia">cydia</a>
             </li>
         {% endif %}
 
         {% if site.blog == true %}
-            {% if page.title != "addtocydia" %}
+            {% if page.title != "cydia" %}
                 <li class="item">
-                    <a class="link" href="{{ site.url }}/addtocydia">addtocydia</a>
+                    <a class="link" href="{{ site.url }}/cydia">cydia</a>
                 </li>
             {% endif %}
         {% endif %}
