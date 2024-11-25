@@ -1,9 +1,9 @@
-Package: com.nostalgia.verboserespring
+Package: com.jdzmfg.verboserespring
 Name: Verbose Respring Theme
-Version: 1.2
+Version: 2.0
 Architecture: iphoneos-arm
 Description: verbose respring theme
-Homepage: https://n-stalgia.github.io/cydia
-Maintainer: nostalgia <n_stalgia@outlook.com>
-Author: nostalgia <n_stalgia@outlook.com>
+Homepage: https://jdzmfg.github.io/cydia
+Maintainer: jdzmfg <jdzmfg@yahoo.com>
+Author: jdzmfg <jdzmfg@yahoo.com>
 Section: Themes (Complete)
