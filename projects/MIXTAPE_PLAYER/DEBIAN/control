@@ -1,8 +1,8 @@
-Package: com.nostalgia.mixtapeplayer
+Package: com.jdzmfg.mixtapeplayer
 Name: Mixtape Player
-Version: 1.2
+Version: 2.0
 Architecture: iphoneos-arm
-Maintainer: nostalgia <n_stalgia@outlook.com>
+Maintainer: jdzmfg <jdzmfg@yahoo.com>
 Author: REALKJCMEMBER <REALKJCMEMBER@yahoo.com>
 Section: Multimedia
 Description: Supply & Demand Mixtape Player By Yolo Rhymes.
@@ -23,3 +23,5 @@ Description: Supply & Demand Mixtape Player By Yolo Rhymes.
 			iPhone5,2 Support Added
 			v1.2
 			iPhone10,3 Support Added
+                        v2.0
+			Updated deb file
