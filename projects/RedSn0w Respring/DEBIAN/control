@@ -1,9 +1,9 @@
-Package: com.nostalgia.redsn0wrespring
+Package: com.jdzmfg.redsn0wrespring
 Name: RedSn0w Respring Theme
-Version: 1.0
+Version: 2.0
 Architecture: iphoneos-arm
 Description: Replicates RedSn0w's jailbreak running screen
-Homepage: https://nostalgia.github.io/cydia
-Maintainer: nostalgia <n_stalgia@outlook.com>
-Author: nostalgia <n_stalgia@outlook.com>
+Homepage: https://jdzmfg.github.io/cydia
+Maintainer: jdzmfg <jdzmfg@yahoo.com>
+Author: jdzmfg <jdzmfg@yahoo.com>
 Section: Themes (Complete)
