@@ -1,46 +1,31 @@
 Package: com.calcantara.silk
 Version: 2.0
 Architecture: iphoneos-arm
-Maintainer: jdzmfg <jdzmfg@github.io>
+Maintainer: jdzmfg <jdzmfg@yahoo.com>
 Depends: PreferenceLoader
 Filename: ./debs/com.calcantara.silk_2.0_iphoneos-arm.deb
-Size: 205798
-MD5sum: e908fb0ad833fecc2cebcb8db9a3d365
-SHA1: 469c46b4cea64bfef9390d1e82cef6e3f689fdc7
-SHA256: c2cd74d2368b3f8287df58ff9ea994d54658bc1c6e07dd00bbc15545fdb839e7
+Size: 205772
+MD5sum: e8470f64494ff145975b293e913b810b
+SHA1: 9077bac1e8dd01716c3468cd81c98eae122a6df7
+SHA256: d2033e7c17039ed172ff62f5932bd3ba04454270c04b2241f7118166dabf8681
 Section: Themes (Complete)
 Homepage: https://app-1527265992.000webhostapp.com
 Description: This is my first theme, Thanks calcantara!
 Author: calcantara <calcantara@yahoo.com>
 Name: Silk
 
-Package: com.mtac.terminalpower
-Version: 2.0
-Architecture: iphoneos-arm
-Maintainer: MTAC <mtactheming@gmail.com>
-Filename: ./debs/com.mtac.terminalpower_2.0_iphoneos-arm.deb
-Size: 760
-MD5sum: 4753a7553817b43d59e0f89afc75a3d5
-SHA1: fbf4aa80adf4dc233fa2cb9f8214497babfd9657
-SHA256: a68dd15b72b89149722afaa24b75d4fd37dfe16c6d89f2b9fbba59972dd1a810
-Section: Terminal Support
-Description: Safemode & Respring via one terminal command
-Author: MTAC <mtactheming@gmail.com>
-Depiction: https://mtacs.github.io/description.html?id=com.mtac.terminalpower
-Name: Terminal Power
-
-Package: com.jmd0x.generator
+Package: com.jdzmfg.generator
 Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: jdzmfg <jdzmfg@yahoo.com>
 Filename: ./debs/com.jdzmfg.generator_2.0_iphoneos-arm.deb
-Size: 1160
-MD5sum: ab7dba950c92db24f83aa1e06463eab8
-SHA1: e266420a52bdd77d22adbedccf49d6814839b8eb
-SHA256: e8b173ebb43ccabd36e790ea5930518198a3ee359f27a81192d76f0e8d0d3961
+Size: 1146
+MD5sum: 325a9215a5b9b2c07d10f000255559fd
+SHA1: aa5e7732c51caea72fb1c5a566bd74a0e20fe949
+SHA256: cb0bb2dc79d77c6ef4432035176cb355137a72fe34e7917b15abb5b8b586f0c5
 Section: Scripting
 Description: set generator to nvram. To start type gen in mobile terminal.
-Author: jmd0x <jmd0x@github.io>
+Author: jdzmfg <jdzmfg@yahoo.com>
 Name: generator
 
 Package: com.jdzmfg.jbrespring
@@ -48,10 +33,10 @@ Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: jdzmfg <jdzmfg@yahoo.com>
 Filename: ./debs/com.jdzmfg.jbrespring_2.0_iphoneos-arm.deb
-Size: 74070
-MD5sum: 4d7deef27408aa9cfbaa4d7a6b987a99
-SHA1: 8cf13a7f4568c760ce2f293252a65beec8df678b
-SHA256: bfbc8e77f0be5dad214cd5efd44d0a09ab6307d0981f1c1e0af3136f19e79e84
+Size: 74054
+MD5sum: 1e767bf67194bbc308e31b81962cdaef
+SHA1: 1530489609c891349d9f6c9e38146ccb7d3cff48
+SHA256: 59dae643d01daf3ccd43a4198de64624f47c4b4be31dcd3701ea31bb3916a663
 Section: Themes (Complete)
 Homepage: https://jdzmfg.github.io/cydia
 Description: Replicates Phoenix jailbreak's running screen
@@ -63,10 +48,10 @@ Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: jdzmfg <jdzmfg@yahoo.com>
 Filename: ./debs/com.jdzmfg.mixtapeplayer_2.0_iphoneos-arm.deb
-Size: 19737692
-MD5sum: 83868f9a4fa659957da8948b1f24ab76
-SHA1: e74594b7f5a9ce74483895b5065391be4b1288b8
-SHA256: a9da0afc553b26eb066266e4ee7c3b3ff45428c24f64020d122b4581aca553f4
+Size: 19737674
+MD5sum: c70a0531fd8a1dbe47fc26abdf18663d
+SHA1: b3b56e55adbb77b790311026cad5178dd491bc75
+SHA256: d18d3ba689c8794af23afeb51a53bf8a244906338c6fe5a824c7a9c44ca44352
 Section: Multimedia
 Description: Supply & Demand Mixtape Player By Yolo Rhymes.
  		Supported devices: iPhone5,2 iPhone8,4 iPhone10,3
@@ -86,38 +71,68 @@ Description: Supply & Demand Mixtape Player By Yolo Rhymes.
  		iPhone5,2 Support Added
  		v1.2
  		iPhone10,3 Support Added
-   v2.0
-   Updated deb file
+                        v2.0
+ 		Updated deb file
 Author: REALKJCMEMBER <REALKJCMEMBER@yahoo.com>
 Name: Mixtape Player
 
 Package: com.jdzmfg.phoenixfix
 Version: 2.0
 Architecture: iphoneos-arm
-Maintainer: jdzmfg <jdzmfg@github.io>
+Maintainer: jdzmfg <jdzmfg@yahoo.com>
 Filename: ./debs/com.jdzmfg.phoenixfix_2.0_iphoneos-arm.deb
-Size: 738
-MD5sum: 629d010875daef80b8d85bd83507dbf5
-SHA1: c5c25672bbeeca89ec40f2e950dd6b830a5c6975
-SHA256: a809b492bfb8940f69e033529ab3dfdfd5ff1132087347a2efacceceb56977bd
+Size: 722
+MD5sum: cec8a19421194331d43376c19453bef3
+SHA1: acc8bd2c05e0a412b52e45d350aea4c45c3e0c19
+SHA256: d2ed601b09991ae9fe821d6e4006a5a452d0ee3e4d183cffc96a09bd9c34db07
 Section: System
 Description: Fix sed on Phoenix iOS 9.3.5 jailbreak
-Author: jdzmfg <jdzmfg@github.io>
+Author: jdzmfg <jdzmfg@yahoo.com>
 Depiction: https://jdzmfg.github.io/description.html?id=com.jdzmfg.phoenixfix
 Name: Phoenix Fix
+
+Package: com.jdzmfg.redsn0wrespring
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: jdzmfg <jdzmfg@yahoo.com>
+Filename: ./debs/com.jdzmfg.redsn0wrespring_2.0_iphoneos-arm.deb
+Size: 3952
+MD5sum: 1edefdfeed1ea09eede05faf3927ca3d
+SHA1: f161727dd2958e3b60d0919e54061410e09eea18
+SHA256: c58d093d94744b4a9e480d04217b14599a2baa1677b4da037fc30a5cf5160bb3
+Section: Themes (Complete)
+Homepage: https://jdzmfg.github.io/cydia
+Description: Replicates RedSn0w's jailbreak running screen
+Author: jdzmfg <jdzmfg@yahoo.com>
+Name: RedSn0w Respring Theme
 
 Package: com.jdzmfg.verboserespring
 Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: jdzmfg <jdzmfg@yahoo.com>
 Filename: ./debs/com.jdzmfg.verboserespring_2.0_iphoneos-arm.deb
-Size: 12583626
-MD5sum: 61573ca0d428b2e1dc92b84d42fa9edf
-SHA1: b8082e52508f85e1fd29a67421fc938ab5b80019
-SHA256: 82aacfc297a5a8b7b85f7821366822db470f89b1b6c741e9b7a7588c547b974c
+Size: 12583528
+MD5sum: d2d87ab0b60190059930c434411ebff0
+SHA1: 30c183af996c1c6258dab1b18a96995fb7259ef9
+SHA256: c93fee0a7769bf0c0893b538dfc46949d29b9504e25dd905cc127a4ff43415f8
 Section: Themes (Complete)
 Homepage: https://jdzmfg.github.io/cydia
 Description: verbose respring theme
 Author: jdzmfg <jdzmfg@yahoo.com>
 Name: Verbose Respring Theme
+
+Package: com.mtac.terminalpower
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: MTAC <mtactheming@gmail.com>
+Filename: ./debs/com.mtac.terminalpower_2.0_iphoneos-arm.deb
+Size: 756
+MD5sum: 87a38b124548af0c0c18bc9777ed6f6c
+SHA1: a870de75407ca375ed68bd3794d8927207446369
+SHA256: 5aede0b9d5674c5ad03ec864cd01890d05c2a764934c2f5cee6397ee1a59f52f
+Section: Terminal Support
+Description: Safemode & Respring via one terminal command
+Author: MTAC <mtactheming@gmail.com>
+Depiction: https://mtacs.github.io/description.html?id=com.mtac.terminalpower
+Name: Terminal Power
 
