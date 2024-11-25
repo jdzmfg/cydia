@@ -1,8 +1,8 @@
-Package: com.nostalgia.generator
+Package: com.jdzmfg.generator
 Name: generator
-Version: 1.0
+Version: 2.0
 Architecture: iphoneos-arm
 Description: set generator to nvram. To start type gen in mobile terminal.
-Maintainer: nostalgia <n_stalgia@outlook.com>
-Author: nostalgia <n_stalgia@outlook.com>
+Maintainer: jdzmfg <jdzmfg@yahoo.com>
+Author: jdzmfg <jdzmfg@yahoo.com>
 Section: Scripting
