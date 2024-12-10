@@ -5,9 +5,9 @@ Maintainer: jdzmfg <jdzmfg@yahoo.com>
 Depends: PreferenceLoader
 Filename: ./debs/com.calcantara.silk_2.0_iphoneos-arm.deb
 Size: 205766
-MD5sum: a35a4e5aa226211f23c48f58051a056c
-SHA1: 16eaa65c080df64e7216233ff46c3ecd0114ff5e
-SHA256: 314d82c45adf6411f131b43cdd703e0d8d83c3fce2bc2624fcbf7244f6d26400
+MD5sum: 9aff615e63da4a26ebac518d2f1782d5
+SHA1: 801b41c61a1cd1895013b182f825b4226b2f12c9
+SHA256: 05bea9760804068bf3f961ab7856193579d6c7a86ce4838b496eda3c2a1ac389
 Section: Themes (Complete)
 Homepage: https://app-1527265992.000webhostapp.com
 Description: This is my first theme, Thanks calcantara!
@@ -20,9 +20,9 @@ Architecture: iphoneos-arm
 Maintainer: jdzmfg <jdzmfg@yahoo.com>
 Filename: ./debs/com.jdzmfg.generator_2.0_iphoneos-arm.deb
 Size: 1148
-MD5sum: d29ee2897b0e9c3b172d330dbed20490
-SHA1: 437f201dfda5f33b7000c93efef8a8efdae6fe30
-SHA256: d9394e0c8d72a226e218773b2c37a95ec1c84a09f1d0c1d3ee4074275bc857b1
+MD5sum: b9b2e2f7570ed5c9fb62a866153d94e2
+SHA1: 775102d7d51443a75fcbd1c43ea5d06ecaae3788
+SHA256: ff89ac3fbb6e2a522deffe589b8521017b1c56f9ab04e669a0ea2a5169878d4e
 Section: Scripting
 Description: set generator to nvram. To start type gen in mobile terminal.
 Author: jdzmfg <jdzmfg@yahoo.com>
@@ -34,9 +34,9 @@ Architecture: iphoneos-arm
 Maintainer: jdzmfg <jdzmfg@yahoo.com>
 Filename: ./debs/com.jdzmfg.jbrespring_2.0_iphoneos-arm.deb
 Size: 74050
-MD5sum: 0652983344d077c744c63bcd2e626cf4
-SHA1: 1be440c397a989192b9a9345b13e151890bc1b56
-SHA256: 1a91ca47e7b9dbdeda2540c9579d9e1dd80d63fa1fcfbe0b42a9238108a10505
+MD5sum: c17e631ef78341edfcb6eca1307082c3
+SHA1: 01209cfc4bdf3fb511717b3a674ab927993f52e9
+SHA256: 74fedd39c74a24c3cadf71af2a6647fc3a8bda55b202d58ad18365b2f067c506
 Section: Themes (Complete)
 Homepage: https://jdzmfg.github.io/cydia
 Description: Replicates Phoenix jailbreak's running screen
@@ -49,9 +49,9 @@ Architecture: iphoneos-arm
 Maintainer: jdzmfg <jdzmfg@yahoo.com>
 Filename: ./debs/com.jdzmfg.mixtapeplayer_2.0_iphoneos-arm.deb
 Size: 19737658
-MD5sum: 411321394ea8c09eed83beff0d38687a
-SHA1: 68bb62a4a8b50e9139a3af57d3fb58b92cb4605e
-SHA256: 844b1730c3f8543934dc0903a4a1c87ccc810d4ba337771e767913c3de6e1510
+MD5sum: 110a2aae5e6c52053987db5b9f954451
+SHA1: 1fab80de1943f102e9c4b6de0dd956de8dfe8206
+SHA256: e85c65426a1f7e5375060a05b969e4ad578f1d1ceaf9b2cf1c96f2927adc73a4
 Section: Multimedia
 Description: Supply & Demand Mixtape Player By Yolo Rhymes.
  		Supported devices: iPhone5,2 iPhone8,4 iPhone10,3
@@ -82,9 +82,9 @@ Architecture: iphoneos-arm
 Maintainer: jdzmfg <jdzmfg@yahoo.com>
 Filename: ./debs/com.jdzmfg.phoenixfix_2.0_iphoneos-arm.deb
 Size: 722
-MD5sum: 319534c2f188078ca43ed258d2943938
-SHA1: 2ee77a9aa4217eb4d7f9e16cc329309df0a22b1e
-SHA256: 59b82e7479acb3a1a155a73a43a3b7d6b2b9829f7a824844aa9a73891b55e412
+MD5sum: 2ef854fcd0aeceb91c294641631c00a4
+SHA1: d9dbb6e320e911d7121f62dd0d795798f3052aca
+SHA256: 3f4152961341d3ce9c38987a906a6295c9e4287fecaf8b88e9620faf22873dce
 Section: System
 Description: Fix sed on Phoenix iOS 9.3.5 jailbreak
 Author: jdzmfg <jdzmfg@yahoo.com>
@@ -97,9 +97,9 @@ Architecture: iphoneos-arm
 Maintainer: jdzmfg <jdzmfg@yahoo.com>
 Filename: ./debs/com.jdzmfg.redsn0wrespring_2.0_iphoneos-arm.deb
 Size: 3952
-MD5sum: 91bdac1d864b89928d3bbc2bf62f0191
-SHA1: 844b8471759dea4cae7a1506fc6fb73f3aa462e5
-SHA256: 087e5ee9fdcf8634946c1ed23265274423cbf7651c87a6cdb294deb3321ca2c9
+MD5sum: e1d6f7af76dfcce6724b77f523f62276
+SHA1: 4203c096e82de00b5f7b853b1cd3c6765ea86e55
+SHA256: dfac9dd148b2df2e3f0daa1af355b047d424bc4218b89812766ec19a59390036
 Section: Themes (Complete)
 Homepage: https://jdzmfg.github.io/cydia
 Description: Replicates RedSn0w's jailbreak running screen
@@ -112,9 +112,9 @@ Architecture: iphoneos-arm
 Maintainer: jdzmfg <jdzmfg@yahoo.com>
 Filename: ./debs/com.jdzmfg.verboserespring_2.0_iphoneos-arm.deb
 Size: 12583464
-MD5sum: d0e2c56e513563b38772e068ac151661
-SHA1: cf20b837a530bd52f018bae686b13b166b4e08d1
-SHA256: f5f74eebb2f4af60f2757124af0fbe6f4eb8842fd9e4296d44d94a7a7642ec8d
+MD5sum: 13a70884a996aeb84745326f41160383
+SHA1: 0c36f6240ff3161b5c4cfb4bf46e0cdf6b5c37e2
+SHA256: 7e6382d98a404ddb66b3d9ea20f458c053b80db3f4d6a6ec39fd17df0b15654a
 Section: Themes (Complete)
 Homepage: https://jdzmfg.github.io/cydia
 Description: verbose respring theme
@@ -127,9 +127,9 @@ Architecture: iphoneos-arm
 Maintainer: MTAC <mtactheming@gmail.com>
 Filename: ./debs/com.mtac.terminalpower_2.0_iphoneos-arm.deb
 Size: 754
-MD5sum: 9dd9df855fbb9ec89025a687868ff1bb
-SHA1: d334cbb5bd5d9784c217d1592d9bc1fb6de6805c
-SHA256: 834ddaa6e004e5379fb130b5d29753c02efc865020345e556fe713d0915d0968
+MD5sum: 49020301053d9e4058dea57540e303e8
+SHA1: c8b51e168c1d39f81b6f9422dc2db825b606c5d5
+SHA256: 66c28f78df4d345cd12740078f5f1b61f1bb560d83c9d900a0ba2630c43baedf
 Section: Terminal Support
 Description: Safemode & Respring via one terminal command
 Author: MTAC <mtactheming@gmail.com>
