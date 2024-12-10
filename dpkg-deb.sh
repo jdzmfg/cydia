@@ -1,9 +1,9 @@
 #!/bin/bash
 
-echo [*] Updating..
+echo [*] Updating...
 find . -name '*.DS_Store' -type f -delete
 
-echo [-] Cleaning up..
+echo [-] Cleaning up...
 find debs -type f -name '*.deb' -delete
 rm -r Packages.bz2
 
@@ -17,8 +17,8 @@ dpkg-deb -bZgzip projects/MIXTAPE_PLAYER debs
 dpkg-deb -bZgzip projects/Silk debs
 dpkg-deb -bZgzip projects/RedSn0w\ Respring debs
 
-echo [*] Scanning Packages..
+echo [%] Scanning Packages...
 dpkg-scanpackages ./debs > Packages
 bzip2 -fks Packages
 
-echo [=] Done!
+echo [=] Completed!
